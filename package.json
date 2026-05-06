@@ -1,0 +1,25 @@
+{
+  "name": "tdd-exercises",
+  "version": "1.0.0",
+  "description": "Test Driven Development Exercises",
+  "main": "capitalize.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eekoka/tdd-exercises.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/eekoka/tdd-exercises/issues"
+  },
+  "homepage": "https://github.com/eekoka/tdd-exercises#readme",
+  "devDependencies": {
+    "@babel/preset-env": "^7.29.5",
+    "jest": "^30.3.0"
+  }
+}
